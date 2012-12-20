@@ -10,6 +10,11 @@ gem 'bootstrap-sass', '2.1'
 
 
 
+  gem 'rspec-rails', '2.11.0'
+
+gem 'bcrypt-ruby', '3.0.1'
+  gem 'annotate', '2.5.0'
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
