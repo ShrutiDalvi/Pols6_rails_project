@@ -8,7 +8,7 @@ gem 'rails', '3.2.9'
 gem 'sqlite3'
 gem 'bootstrap-sass', '2.1'
 
-
+gem 'factory_girl_rails', '4.1.0'
 
   gem 'rspec-rails', '2.11.0'
 
