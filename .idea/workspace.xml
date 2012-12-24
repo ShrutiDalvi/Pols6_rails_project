@@ -7,10 +7,6 @@
       <change type="DELETED" beforePath="D:\RubyOnRails\Pols6_rails_app\app\controllers\user_controller.rb" afterPath="" />
       <change type="DELETED" beforePath="D:\RubyOnRails\Pols6_rails_app\app\helpers\user_helper.rb" afterPath="" />
       <change type="DELETED" beforePath="D:\RubyOnRails\Pols6_rails_app\app\views\user\new.html.erb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/edit.html.erb" afterPath="$PROJECT_DIR$/app/views/users/edit.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/show_follow.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show_follow.html.erb" />
     </list>
     <ignored path="Pols6_rails_app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -769,7 +765,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
